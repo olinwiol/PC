@@ -15,3 +15,12 @@ My SFF project setup (in progress)
 
 ## Case
 ![Case](https://ncased.com/cdn/shop/files/M2_Grater_PP_G1_Black_LeftFront1_20241125.png?v=1732532370&width=1080)
+
+## CPU
+![CPU](https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2613900-ryzen-9-9950x.jpg)
+
+## CPU Cooler
+![CPU Cooler](https://www.thermalright.com/wp-content/uploads/2024/01/4-4.jpg)
+
+## Motherboard
+![Motherboard](https://dlcdnwebimgs.asus.com/files/media/B8F759D6-3102-4CFC-9891-0B5BA0519EDC/v1/img/kv/ROG-Strix-X670E-I-Gaming.png)
