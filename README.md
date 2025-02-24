@@ -9,6 +9,7 @@ My SFF project setup (in progress)
 |CPU|✖️|✖️|[Ryzen 9 9900X](https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9900x.html)|1
 |CPU Cooler|✖️|✖️|[Peerless Assassin](https://www.thermalright.com/product/peerless-assassin-120-mini-black/)|1
 |Motherboard|✔️|✖️|[ROG STRIX X670E-I](https://rog.asus.com/se/motherboards/rog-strix/rog-strix-x670e-i-gaming-wifi-model/)|1
+|GPU|✖️|✖️|Undecided | -|
 |Memory|✔️|✖️|[Kingston FURY Beast 16 GB](https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr5-memory)|2
 |Storage|✔️|✔️|[Kingston Fury Renegade 2 TB](https://www.kingston.com/en/ssd/gaming/kingston-fury-renegade-nvme-m2-ssd)|2
 
