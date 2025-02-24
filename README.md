@@ -24,3 +24,12 @@ My SFF project setup (in progress)
 
 ## Motherboard
 ![Motherboard](https://dlcdnwebimgs.asus.com/files/media/B8F759D6-3102-4CFC-9891-0B5BA0519EDC/v1/img/kv/ROG-Strix-X670E-I-Gaming.png)
+
+## Graphics
+-
+
+## Memory
+![RaM](https://media.kingston.com/kingston/product/FURY_Beast_Black_EXPO_DDR5_1-lg.jpg)
+
+## Storage
+![storage](https://www.komplett.se/img/p/800/1201393_1.jpg)
