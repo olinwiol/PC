@@ -32,4 +32,4 @@ My SFF project setup (in progress)
 ![RaM](https://media.kingston.com/kingston/product/FURY_Beast_Black_EXPO_DDR5_1-lg.jpg)
 
 ## Storage
-![storage]([https://www.komplett.se/img/p/800/1201393_1.jpg](https://cdn.inet.se/product/688x386/4305507_7.png))
+![storage](https://cdn.inet.se/product/688x386/4305507_7.png)
