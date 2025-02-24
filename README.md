@@ -1,6 +1,7 @@
 ## PC
 
 My SFF project setup (in progress)
+
 [Build video](#) (in progress)
 
 | Parts | Ordered | Arrived | Type | Qty
