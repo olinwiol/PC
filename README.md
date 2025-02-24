@@ -20,7 +20,7 @@ My SFF project setup (in progress)
 ![CPU](https://globaliraq.net/cdn/shop/files/2_ad7a68ee-d691-4c18-bc43-81d2b0be6c23_2048x.jpg?v=1737032536)
 
 ## CPU Cooler
-![CPU Cooler]([https://www.thermalright.com/wp-content/uploads/2024/01/4-4.jpg](https://www.proshop.se/Images/915x900/3226763_5ec5eb1e9dad.jpg))
+![CPU Cooler](https://technicstore.net/wp-content/uploads/2024/01/PA120-MINI-BLACK-6.jpg)
 
 ## Motherboard
 ![Motherboard](https://dlcdnwebimgs.asus.com/files/media/B8F759D6-3102-4CFC-9891-0B5BA0519EDC/v1/img/kv/ROG-Strix-X670E-I-Gaming.png)
